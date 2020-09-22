@@ -1,0 +1,3 @@
+THis is a new file
+It's called file B
+made some changes to file B!
