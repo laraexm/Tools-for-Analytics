@@ -1,6 +1,6 @@
 Hi! This is file A
-This is a good file
-
+Tfile
+now I hope there is a conflict
 whats
 
 Ifasdf
